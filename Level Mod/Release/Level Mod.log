@@ -1,0 +1,14 @@
+﻿  MyLevelMod.cpp
+C:\Users\timkh\source\repos\ExteDarkGardenDLL\Level Mod\MyLevelMod.cpp(105,50): warning C4805: !=: небезопасное смешение типа "boolean" и типа "bool" в операции
+  (компиляция исходного файла "/MyLevelMod.cpp")
+  
+C:\Users\timkh\source\repos\ExteDarkGardenDLL\Level Mod\MyLevelMod.cpp(121,51): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/MyLevelMod.cpp")
+  
+     Создается библиотека C:\Users\timkh\source\repos\ExteDarkGardenDLL\Release\MyLevelMod.lib и объект C:\Users\timkh\source\repos\ExteDarkGardenDLL\Release\MyLevelMod.exp
+  Создание кода
+  1 of 2120 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Level Mod.vcxproj -> C:\Users\timkh\source\repos\ExteDarkGardenDLL\Release\MyLevelMod.dll
